@@ -1,0 +1,16 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "installing and setting up nodejs\r nodejs.org code\r handling http requests\r npm/modules\r serving html files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-sohail87:sohail87/02-SimpleWebServer.git"
+  },
+  "author": "sohail",
+  "license": "ISC"
+}
